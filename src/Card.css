@@ -1,0 +1,21 @@
+.Card-container{
+    max-width: 300px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+}
+
+.Card-title{
+    font-size: 22px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.Card-content{
+    font-size: 18px;
+    
+}
+
